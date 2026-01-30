@@ -68,7 +68,7 @@ export function DaySelector({
                 "relative w-full aspect-square rounded-lg text-xs font-medium transition-all duration-200 flex items-center justify-center",
                 isLocked && "opacity-40 cursor-not-allowed bg-bg-input",
                 isCompleted && "bg-accent-gold text-white",
-                isCurrent && "bg-white text-text-primary shadow-md ring-2 ring-accent-gold ring-offset-2 ring-offset-bg-card",
+                isCurrent && "bg-white text-slate-900 shadow-md ring-2 ring-accent-gold ring-offset-2 ring-offset-bg-card",
                 !isLocked && !isCompleted && !isCurrent && "bg-bg-input text-text-secondary hover:bg-bg-hover"
               )}
             >
