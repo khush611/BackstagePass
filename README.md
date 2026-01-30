@@ -2,6 +2,10 @@
 
 Frontend assignment for Tagmango - building the BackstagePass product UI from the Figma design.
 
+## 🚀 Live Demo
+
+**[Visit the app on Vercel](https://tagmango-rho.vercel.app)**
+
 ## Screenshots
 
 ### Desktop - Light Mode
