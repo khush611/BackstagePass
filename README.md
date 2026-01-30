@@ -2,6 +2,22 @@
 
 Frontend assignment for Tagmango - building the BackstagePass product UI from the Figma design.
 
+## Screenshots
+
+### Desktop - Light Mode
+![Desktop Light Mode](screenshots/localhost_3000_%20(2).png)
+
+### Desktop - Dark Mode
+![Desktop Dark Mode](screenshots/localhost_3000_%20(3).png)
+
+### Desktop - Passes Page
+![Passes Light](screenshots/localhost_3000_%20(4).png)
+![Passes Dark](screenshots/localhost_3000_%20(5).png)
+
+### Mobile
+![Mobile Light](screenshots/localhost_3000_(iPhone%2014%20Pro%20Max).png)
+![Mobile Dark](screenshots/localhost_3000_(iPhone%2014%20Pro%20Max)%20(1).png)
+
 ## What I built
 
 This is a creator community platform UI with:
